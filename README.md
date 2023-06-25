@@ -4,7 +4,7 @@
    create database testdatabase;
 3) Открыть проект в среде разработки;
 4) Открыть файл pom.xml и обновить зависимости maven
-5) В Project Structure SDK 8+
+5) В Project Structure выбрать SDK 8+
 6) Запустить проект
 Необходимо для сохранения данных в SQL-хранилищах с помощью Java Persistence API с использованием Spring Data и Hibernate.
 
